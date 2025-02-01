@@ -1,0 +1,13 @@
+.footer__columns_content_copyright {
+  display: flex;
+  flex-direction: column;
+  flex-basis: 711px;
+  align-items: flex-start;
+}
+
+.footer__columns_content_info, .footer__columns_content_social {
+  flex-basis: 130px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
